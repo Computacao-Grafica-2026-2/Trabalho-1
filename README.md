@@ -1,6 +1,6 @@
 # Trabalho 1 - Computação Gráfica
 
-Pipa animada em WebGPU para a disciplina de Computação Gráfica da UFF
+Este projeto foi desenvolvido como base para um trabalho acadêmico em Computação Gráfica (UFF): uma pipa 2D animada em WebGPU, feita com quatro triângulos. Usa matrizes de modelagem, visualização da câmera e projeção ortográfica, shaders WGSL e `requestAnimationFrame`. A estrutura e os conceitos foram inspirados nos exemplos do professor Marcos Lage: https://github.com/mlage/curso-cg.
 
 ## Como rodar
 
